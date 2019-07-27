@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\bin\Debug\VENTAS.exe.config
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\bin\Debug\VENTAS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\bin\Debug\VENTAS.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\bin\Debug\VENTAS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\obj\Debug\VENTAS.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\obj\Debug\VENTAS.Resources.resources
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\obj\Debug\VENTAS.vbproj.GenerateResource.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\obj\Debug\VENTAS.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\obj\Debug\VENTAS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\obj\Debug\VENTAS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\VENTAS\obj\Debug\VENTAS.pdb

@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\EJERCICIOS N4\\pg2-s19e204-estructuras-de-datos-charmorsa\\EJERCICIO_4.1\\EJERCICIO_4.1.vbproj",
-      "projectName": "EJERCICIO_4.1",
-      "projectPath": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\EJERCICIOS N4\\pg2-s19e204-estructuras-de-datos-charmorsa\\EJERCICIO_4.1\\EJERCICIO_4.1.vbproj",
+      "projectUniqueName": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\EJERCICIOS N4\\pg2-s19e204-estructuras-de-datos-charmorsa\\EJERCICIO_4.1\\MEDIA.vbproj",
+      "projectName": "MEDIA",
+      "projectPath": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\EJERCICIOS N4\\pg2-s19e204-estructuras-de-datos-charmorsa\\EJERCICIO_4.1\\MEDIA.vbproj",
       "packagesPath": "C:\\Users\\wasti\\.nuget\\packages\\",
       "outputPath": "E:\\facultad\\SEGUNDO\\PROGRAMACION 2\\trabajos\\EJERCICIOS N4\\pg2-s19e204-estructuras-de-datos-charmorsa\\EJERCICIO_4.1\\obj\\",
       "projectStyle": "PackageReference",
@@ -729,13 +729,19 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true

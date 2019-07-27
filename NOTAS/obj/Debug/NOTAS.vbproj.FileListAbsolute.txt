@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\bin\Debug\NOTAS.exe.config
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\bin\Debug\NOTAS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\bin\Debug\NOTAS.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\bin\Debug\NOTAS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\obj\Debug\NOTAS.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\obj\Debug\NOTAS.Resources.resources
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\obj\Debug\NOTAS.vbproj.GenerateResource.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\obj\Debug\NOTAS.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\obj\Debug\NOTAS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\obj\Debug\NOTAS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\NOTAS\obj\Debug\NOTAS.pdb
