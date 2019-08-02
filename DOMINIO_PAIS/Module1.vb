@@ -13,6 +13,7 @@
         domipais.Add("Colombia", "col")
         domipais.Add("Venezuela", "ven")
         domipais.Add("Panama", "pan")
+        domipais.Add("Honduras", "hon")
         Call busqueda()
     End Sub
 
