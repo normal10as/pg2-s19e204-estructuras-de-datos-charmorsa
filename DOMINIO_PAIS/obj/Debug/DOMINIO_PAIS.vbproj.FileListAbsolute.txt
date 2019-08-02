@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\bin\Debug\DOMINIO_PAIS.exe.config
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\bin\Debug\DOMINIO_PAIS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\bin\Debug\DOMINIO_PAIS.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\bin\Debug\DOMINIO_PAIS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\obj\Debug\DOMINIO_PAIS.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\obj\Debug\DOMINIO_PAIS.Resources.resources
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\obj\Debug\DOMINIO_PAIS.vbproj.GenerateResource.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\obj\Debug\DOMINIO_PAIS.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\obj\Debug\DOMINIO_PAIS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\obj\Debug\DOMINIO_PAIS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\DOMINIO_PAIS\obj\Debug\DOMINIO_PAIS.pdb
