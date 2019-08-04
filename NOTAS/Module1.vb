@@ -1,6 +1,6 @@
 ﻿Module Module1
     Private a, b, c As Integer
-    Private inteligentes() As String
+    Private inteligentes(1) As String
     Sub Main()
         Dim alumnos(40) As String
         Dim notas(40, 4) As Byte
@@ -8,7 +8,6 @@
         Call informe(alumnos, notas)
         Call mejores()
     End Sub
-
     Sub carga(ByRef alu() As String, ByRef nota(,) As Byte)
         Dim i, x As Integer
         Console.Write("INGRESE LA CANTIDAD DE ALUMNOS: ")
@@ -33,7 +32,6 @@
             End If
         Loop Until i = a
     End Sub
-
     Sub informe(ByVal alum() As String, ByVal nota(,) As Byte)
         Dim promedio(a) As Byte
         Dim x, i As Integer
@@ -61,29 +59,26 @@
         Next
         Return ex
     End Function
-
-    Function mejor(ByVal pro() As Byte, ByVal alu() As String) As Byte
+    Function mejor(ByVal pro() As Byte, ByRef alu() As String) As Byte
         Dim m As Byte = 0
-        Dim pos As Byte
+        Dim pos As Byte = 0
         Dim i As Integer = 0
         c = 0
         Do
             If pro(i) > m Then
                 m = pro(i)
                 pos = i
+                inteligentes(c) = alu(pos)
             ElseIf pro(i) = m Then
                 m = i
                 c += 1
                 ReDim Preserve inteligentes(c)
                 inteligentes(c) = alu(i)
             End If
-            ReDim Preserve inteligentes(c)
-            inteligentes(c) = alu(i)
             i += 1
         Loop Until i = a
         Return pos
     End Function
-
     Function rango(ByVal n(,) As Byte, ByVal y As Integer, ByRef z As Integer) As Integer
         If (n(y, z) < 11 And n(y, z) > 0) Then
             z += 1
@@ -93,14 +88,12 @@
         End If
         Return z
     End Function
-
     Function rinde(ByVal p() As Byte, ByVal q As Integer) As String
         If p(q) > 5 Then
             Return "APROBO!"
         End If
         Return "DESAPROBO!"
     End Function
-
     Sub mejores()
         Console.WriteLine("los mejores alumnos son: ")
         For i As Integer = 0 To inteligentes.Length
