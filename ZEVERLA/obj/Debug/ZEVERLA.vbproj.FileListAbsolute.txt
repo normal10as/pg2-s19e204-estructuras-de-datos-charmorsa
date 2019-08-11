@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\bin\Debug\ZEVERLA.exe.config
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\bin\Debug\ZEVERLA.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\bin\Debug\ZEVERLA.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\bin\Debug\ZEVERLA.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\obj\Debug\ZEVERLA.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\obj\Debug\ZEVERLA.Resources.resources
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\obj\Debug\ZEVERLA.vbproj.GenerateResource.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\obj\Debug\ZEVERLA.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\obj\Debug\ZEVERLA.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\obj\Debug\ZEVERLA.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\ZEVERLA\obj\Debug\ZEVERLA.pdb

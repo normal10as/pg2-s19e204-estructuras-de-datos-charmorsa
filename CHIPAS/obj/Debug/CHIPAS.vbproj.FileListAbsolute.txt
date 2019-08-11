@@ -1,0 +1,11 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\bin\Debug\CHIPAS.exe.config
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\bin\Debug\CHIPAS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\bin\Debug\CHIPAS.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\bin\Debug\CHIPAS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\obj\Debug\CHIPAS.vbprojAssemblyReference.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\obj\Debug\CHIPAS.Resources.resources
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\obj\Debug\CHIPAS.vbproj.GenerateResource.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\obj\Debug\CHIPAS.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\obj\Debug\CHIPAS.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\obj\Debug\CHIPAS.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\CHIPAS\obj\Debug\CHIPAS.pdb

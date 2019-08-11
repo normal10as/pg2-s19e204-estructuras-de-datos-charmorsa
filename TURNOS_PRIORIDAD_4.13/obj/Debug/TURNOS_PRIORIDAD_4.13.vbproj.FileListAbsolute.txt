@@ -1,0 +1,10 @@
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\bin\Debug\TURNOS_PRIORIDAD_4.13.exe.config
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\bin\Debug\TURNOS_PRIORIDAD_4.13.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\bin\Debug\TURNOS_PRIORIDAD_4.13.pdb
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\bin\Debug\TURNOS_PRIORIDAD_4.13.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\obj\Debug\TURNOS_PRIORIDAD_4._13.Resources.resources
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\obj\Debug\TURNOS_PRIORIDAD_4.13.vbproj.GenerateResource.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\obj\Debug\TURNOS_PRIORIDAD_4.13.vbproj.CoreCompileInputs.cache
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\obj\Debug\TURNOS_PRIORIDAD_4.13.exe
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\obj\Debug\TURNOS_PRIORIDAD_4.13.xml
+E:\facultad\SEGUNDO\PROGRAMACION 2\trabajos\EJERCICIOS N4\pg2-s19e204-estructuras-de-datos-charmorsa\TURNOS_PRIORIDAD_4.13\obj\Debug\TURNOS_PRIORIDAD_4.13.pdb
